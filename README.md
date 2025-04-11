@@ -17,7 +17,7 @@ In CMS-driven platforms—especially casino, game, or e-commerce systems—uploa
 
 ## Project clone
 ```
-git clone https://github.com/
+git clone https://github.com/btechspects/image-processing-service.git
 cd image-processing-service
 ```
 
